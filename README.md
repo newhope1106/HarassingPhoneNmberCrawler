@@ -1,3 +1,3 @@
 #HarassingPhoneNmberCrawler
 
-用于从网上搜索骚扰电话的工具
+用于从网上爬取骚扰电话号码的工具
