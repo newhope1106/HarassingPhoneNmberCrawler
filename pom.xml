@@ -3,4 +3,22 @@
   <groupId>com.vivo</groupId>
   <artifactId>HarassingPhoneNmberCrawler</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+    <dependency>
+	    <groupId>org.apache.httpcomponents</groupId>
+	    <artifactId>httpclient</artifactId>
+	    <version>4.5.2</version>
+	</dependency>
+	<dependency>
+	    <groupId>org.htmlparser</groupId>
+	    <artifactId>htmlparser</artifactId>
+	    <version>2.1</version>
+	</dependency>
+	<dependency>
+	    <groupId>commons-io</groupId>
+	    <artifactId>commons-io</artifactId>
+	    <version>2.5</version>
+	</dependency>
+  </dependencies>
 </project>
